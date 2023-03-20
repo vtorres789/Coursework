@@ -1,0 +1,17 @@
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    background-color: lightblue;
+}
+
+h3 {
+    background-color: lightcoral;
+}
+
+img {
+    padding: 25px 25px;
+    width: 25%;
+    border-radius: 75px;
+}
