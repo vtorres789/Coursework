@@ -1,0 +1,10 @@
+Psuedocode for brushing teeth
+
+1. Grab brush
+2. move brush to mouth
+3. Press brush against teeth
+4. move brush in circular motion
+5. repeat in all areas of mouth
+6. spit out toothpaste as needed
+7. Rinse mouth with water
+8. Rinse toothbrush with water

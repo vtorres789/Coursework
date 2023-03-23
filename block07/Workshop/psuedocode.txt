@@ -1,0 +1,10 @@
+ 
+print "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
+
+Variable 1 = [calculation1] = 10
+
+Variable 2 = [calculation2] = 40
+
+Variable 3 = [calculation3] = 39
+
+Dialog Box displaying codes (display codes as string)
