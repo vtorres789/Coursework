@@ -10,14 +10,24 @@ const users = [
 ];
 
 function main() {
+    
+    // grabbing root element
     const root = document.getElementById("root");
     
+    // add h1 element and appending HTML
     const h1 = document.createElement("h1");
     h1.innerHTML = "FREELANCERS";
     root.appendChild(h1);
 
-    const ul = document.createElement
+    // creating a for loop with li in a ul
+    for (let person of users) {
+        let li = document.createElement('li');
+        li.innerHTML = person.name + ', age: ' + person.age + ', occupation: ' + person.occupation;
+        ul.appendChild(li);
+        // append HTML of the loop
+        root.appendChild(ul);
+    }
+    
 }
-
 //call the main function
 main();
